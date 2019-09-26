@@ -4,5 +4,3 @@ Versao: 3
 
 Nome:
 RA:
-Data de Nascimento:
-CPF:
